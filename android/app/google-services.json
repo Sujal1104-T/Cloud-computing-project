@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "217867596767",
+    "project_id": "quizmaster-ccl-app-2026",
+    "storage_bucket": "quizmaster-ccl-app-2026.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:217867596767:android:0f9b2265cea04ab379ca6a",
+        "android_client_info": {
+          "package_name": "com.example.quiz_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbGRff_HlJoEKhiweLyG3zIvAELL291SI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

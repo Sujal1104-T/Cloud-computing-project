@@ -1,0 +1,34 @@
+{
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "quizmaster-ccl-app-2026",
+          "appId": "1:217867596767:android:0f9b2265cea04ab379ca6a",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "quizmaster-ccl-app-2026",
+          "configurations": {
+            "android": "1:217867596767:android:0f9b2265cea04ab379ca6a",
+            "ios": "1:217867596767:ios:d37e38a77e6c814279ca6a",
+            "web": "1:217867596767:web:b7364b28802b3fe979ca6a"
+          }
+        }
+      }
+    }
+  },
+  "auth": {
+    "providers": {
+      "emailPassword": true
+    }
+  },
+  "firestore": {
+    "database": "(default)",
+    "location": "us-central1",
+    "rules": "firestore.rules",
+    "indexes": "firestore.indexes.json"
+  }
+}
